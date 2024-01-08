@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 ,====== = 辽宁移动 = ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV1 3M1080
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 ,CCTV1 4M1080
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8
+#EXTINF:-1 ,CCTV1 7.5M1080
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226721/index.m3u8
+#EXTINF:-1 ,CCTV1 8M1080
+http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
+#EXTINF:-1 ,CCTV1 8M1080
+http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227001/index.m3u8
+#EXTINF:-1 ,CCTV2 7.5M1080
+http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226711/index.m3u8
