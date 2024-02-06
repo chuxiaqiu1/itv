@@ -27,8 +27,8 @@ CCTV17 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221
 辽宁卫视 4M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8
 辽宁卫视 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
 辽宁卫视 8M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226689/index.m3u8
-冬方卫视 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
-冬方卫视 8M1080,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226697/index.m3u8
+东方卫视 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226733/index.m3u8
+东方卫视 8M1080,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226697/index.m3u8
 北京卫视 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226724/index.m3u8
 北京卫视 8M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226666/index.m3u8
 吉林卫视 8M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227163/index.m3u8
@@ -48,16 +48,6 @@ CCTV17 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221
 重庆卫视 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226737/index.m3u8
 北京纪实 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226730/index.m3u8
 湖南金鹰纪实 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226714/index.m3u8
-中国教育1 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
-中国教育3 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226950/index.m3u8
-中国教育4 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226940/index.m3u8
-哒啵赛事 4M1080,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226903/index.m3u8
-咪咕视频 4M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226937/index.m3u8
-咪咕视频 4M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226941/index.m3u8
-咪咕视频 2M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226840/index.m3u8
-广东嘉佳卡通 576,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226744/index.m3u8
-江苏优漫卡通 576,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226768/index.m3u8
-NNM新动漫 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226818/index.m3u8
 
 🌏国际频道,#genre#
 欧洲华语1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
@@ -109,6 +99,12 @@ NNM新动漫 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/32
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
+咪咕视频 4M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226937/index.m3u8
+咪咕视频 4M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226941/index.m3u8
+咪咕视频 2M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226840/index.m3u8
+广东嘉佳卡通 576,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226744/index.m3u8
+江苏优漫卡通 576,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226768/index.m3u8
+NNM新动漫 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226818/index.m3u8
 
 
 🎬影视,#genre#
@@ -129,6 +125,10 @@ China气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
+中国教育1 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226732/index.m3u8
+中国教育3 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226950/index.m3u8
+中国教育4 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226940/index.m3u8
+哒啵赛事 4M1080,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226903/index.m3u8
 
 🎬斗鱼,#genre#
 斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
