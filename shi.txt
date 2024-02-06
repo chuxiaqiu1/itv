@@ -22,7 +22,7 @@ CCTV16 8M1080,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/32212
 CCTV16 8M1080,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8
 CCTV17 7.5M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 
-🦜卫视频道,#genre#
+🦞卫视频道,#genre#
 辽宁卫视 3M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226156/index.m3u8
 辽宁卫视 4M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8
 辽宁卫视 7.5M1080,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
@@ -64,7 +64,7 @@ NNM新动漫 576,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/32
 欧洲华语2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华语6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 
-🦖辽宁地方频道,#genre#
+♣️辽宁地方频道,#genre#
 辽宁公共 8M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3u8
 辽宁经济 8M1080,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226735/index.m3u8
 辽宁体育 576,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226764/index.m3u8
