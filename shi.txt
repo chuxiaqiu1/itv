@@ -22,7 +22,7 @@ CCTV16 ,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/
 CCTV16 ,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8
 CCTV17 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 
-🌴卫视频道_123456,#genre#
+🌴卫视频道,#genre#
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226156/index.m3u8
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
@@ -83,7 +83,7 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 辽宁移动电视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226982/index.m3u8
 辽宁都市 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226760/index.m3u8
 
-IPV6-2,#genre#
+IPV6-2_123456,#genre#
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
