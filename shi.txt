@@ -22,7 +22,7 @@ CCTV16 ,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/
 CCTV16 ,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8
 CCTV17 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
 
-🌴卫视频道,#genre#
+🌴卫视频道_9527,#genre#
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226156/index.m3u8
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226049/index.m3u8
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226731/index.m3u8
