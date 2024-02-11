@@ -71,7 +71,7 @@ var rule = {
         html.forEach(it => {
             d.push({
                 title: it.roomName,
-                desc: '👁' + it.online + '  🆙' + it.ownerName,
+                desc: it.ownerName,
                 pic_url: it.roomPic,
                 url: it.platForm + '|' + it.roomId
             });
