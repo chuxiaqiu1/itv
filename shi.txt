@@ -3,11 +3,10 @@ CCTV1 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/32212
 CCTV1 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226675/index.m3u8
 CCTV2 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226711/index.m3u8
 CCTV2 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226703/index.m3u8
-CCTV3 ,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227038/index.m3u8
+CCTV3 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227402/index.m3u8
 CCTV4 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226899/index.m3u8
 CCTV4 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226692/index.m3u8
-CCTV5 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227041/index.m3u8
-CCTV5+,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
+CCTV5 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227218/index.m3u8
 CCTV6 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227099/index.m3u8
 CCTV7 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226905/index.m3u8
 CCTV8 ,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227102/index.m3u8
@@ -18,9 +17,11 @@ CCTV13 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226729/
 CCTV13 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221225986/index.m3u8
 CCTV13 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226191/index.m3u8
 CCTV14 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
+CCTV15 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227361/index.m3u8
 CCTV16 ,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/index.m3u8
 CCTV16 ,http://39.135.129.172/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227074/index.m3u8
 CCTV17 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226841/index.m3u8
+CCTV5+,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226745/index.m3u8
 
 🌴卫视频道,#genre#
 辽宁卫视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226156/index.m3u8
