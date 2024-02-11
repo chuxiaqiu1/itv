@@ -15,8 +15,6 @@ CCTV10 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221
 cctv11 ,http://39.135.129.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226753/index.m3u8
 CCTV12 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226736/index.m3u8
 CCTV13 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226729/index.m3u8
-CCTV13 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221225986/index.m3u8
-CCTV13 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226191/index.m3u8
 CCTV14 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226720/index.m3u8
 CCTV15 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221227361/index.m3u8
 CCTV16 ,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221227071/index.m3u8
