@@ -127,6 +127,8 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
+信号测试1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
+信号测试2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 612,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 613,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 615,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -148,31 +150,6 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 665,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 666,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 667,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-
-❤️百视通,#genre#
-SiTV欢笑剧场4K ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
-SiTV游戏风云 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-SiTV都市剧场 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-精彩综艺 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-NewTV怡伴健康 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226957/index.m3u8
-哒啵电竞 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226951/index.m3u8
-哒啵赛事 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226954/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225834/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225845/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
-百视通体育 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225847/index.m3u8
-CHC动作电影 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-CHC家庭影院 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC高清电影 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-信号测试1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
-信号测试2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226338/index.m3u8
 
 🛒港澳台,#genre#
 凤凰卫视720p ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
