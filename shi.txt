@@ -127,10 +127,8 @@ CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
-611,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 612,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 613,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-614,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
 615,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 616,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 618,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
