@@ -1,40 +1,26 @@
 📡央视频道,#genre#
 CCTV1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV4 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV5 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV6 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV6 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-CCTV7 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV8 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV5+ ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221221/index.m3u8
-CCTV5+ ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV世界地理 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
-CCTV兵器科技 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
-CCTV央视台球 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
-CCTV央视文化精品 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
-CCTV怀旧剧场 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV电视指南 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
-CCTV第一剧场 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226959/index.m3u8
-CCTV风云剧场 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
-CCTV风云足球 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
-CCTV风云音乐 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
-CCTV高尔夫网球 ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
-CGTN ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
+CCTV-2,http://39.134.66.34/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3,http://39.134.66.34/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4,http://39.134.66.34/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5,http://39.134.66.34/PLTV/88888888/224/3221225737/index.m3u8
+CCTV-5,http://39.134.66.34/PLTV/88888888/224/3221225758/index.m3u8
+CCTV-5,http://39.134.66.34/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5,http://39.134.66.34/PLTV/88888888/224/3221225635/index.m3u8
+CCTV-6,http://39.134.66.34/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7,http://39.134.66.34/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8,http://39.134.66.34/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9,http://39.134.66.34/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10,http://39.134.66.34/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11,http://39.134.66.34/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12,http://39.134.66.34/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13,http://39.134.66.34/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14,http://39.134.66.34/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15,http://39.134.66.34/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-16,http://39.134.66.34/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17,http://39.134.66.34/PLTV/88888888/224/3221225708/index.m3u8
+CCTV-5+,http://39.134.66.34/PLTV/88888888/224/3221225507/index.m3u8
 
 🌴卫视频道,#genre#
 辽宁卫视,http://39.134.66.34/PLTV/88888888/224/3221225499/index.m3u8
