@@ -286,7 +286,7 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 俄罗斯2,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-♣️辽宁地方频道,#genre#
+💞辽宁地方频道,#genre#
 辽宁公共 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3u8
 辽宁经济 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226735/index.m3u8
 辽宁体育 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226764/index.m3u8
@@ -297,7 +297,7 @@ CGTN 纪录频道,https://livedoc.cgtn.com/500d/prog_index.m3u8
 辽宁移动电视 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226982/index.m3u8
 辽宁都市 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226760/index.m3u8
 
-IPV6,#genre#
+💞IPV6,#genre#
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -386,27 +386,7 @@ CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.c
 2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
 2020年,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
 
-💞少儿频道,#genre#
-哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-key=0b292c335e5837e947f9409c59228f3e6
-咪咕视频 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226937/index.m3u8
-咪咕视频 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226941/index.m3u8
-咪咕视频 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226840/index.m3u8
-广东嘉佳卡通 ,http://39.135.129.166/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226744/index.m3u8
-江苏优漫卡通 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226768/index.m3u8
-NNM新动漫 ,http://39.135.129.162/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226818/index.m3u8
-
-🎬斗鱼,#genre#
-斗鱼电影1,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
-
-
-纪录片频道,#genre#
+🎬纪录片频道,#genre#
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 探索发现,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
