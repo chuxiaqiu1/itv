@@ -270,6 +270,20 @@ TJB 대전방송 (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
 俄罗斯2,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 NHK World,http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+ALKORQAPLUS,http://32.shqiptv.org/korca/albplus/index.m3u8
+ATD TV (American TV of Da,http://66.242.170.53/hls/live/temp/index.m3u8
+CIRA TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+JIN TV,http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+OK Merseburg-Querfurt (10,http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+OK Stendal,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+OK Wernigerode,http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+PUNKTum Fernsehen,http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+Radio 51 TV,http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+Ran 1,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+RMK TV Sciacca,http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
+RUTV,http://92.50.128.180/utv/1358/index.m3u8
+Sonnenklar.TV,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+Перший Зах?дний (Львов),http://194.50.51.34/playlist.m3u8
 
 💞辽宁地方频道,#genre#
 辽宁公共 ,http://39.135.129.164/hwottcdn.ln.chinamobile.com/PLTV/3/224/3221226766/index.m3u8
