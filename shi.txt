@@ -239,6 +239,11 @@ CCTV-5+,http://39.134.55.179/PLTV/88888888/224/3221226445/index.m3u8
 云南卫视,http://39.134.55.179/PLTV/88888888/224/3221226634/index.m3u8
 江苏卫视,http://39.134.55.179/PLTV/88888888/224/3221226638/index.m3u8
 
+CHC影视,#genre#
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+
 
 🛒港澳台,#genre#
 凤凰卫视720p ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
